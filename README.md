@@ -1,6 +1,7 @@
 # BDA Member Churn Prediction
 
-A machine learning project for predicting BDA member withdrawal using member profile, activity, and participation-related data.
+A machine learning project for predicting BDA member withdrawal using member profile, activity, and participation-related data.  
+[README_KR](./README_KR.md)
 
 ## Overview
 
